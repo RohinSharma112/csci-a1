@@ -1,0 +1,52 @@
+.eventpage {
+    padding: 20px;
+    margin-top: 170px;
+    margin-left: 240px;
+    background-color: #ECEFF1;
+    height: 58vh;
+    width: 77%;
+  }
+  
+  .eventinfo {
+    display: flex;
+    align-items: center;
+  }
+  
+  .eventimage img {
+    width: 400px;
+    height: 120%;
+    margin-right: 20px;
+  }
+  
+  .eventname {
+    font-size: 2rem;
+    margin-bottom: 10px;
+    text-indent: 10%;
+  }
+
+  .eventdetails {
+    margin-left: 50px;
+  }
+  
+  .eventdate,
+  .eventtime,
+  .eventlocation,
+  .eventdescription {
+    margin-bottom: 10px;
+  }
+  
+  .registerbutton {
+    background-color: #333333;
+    color: #ffffff;
+    border: none;
+    padding: 10px 20px;
+    font-weight: bold;
+    cursor: pointer;
+    margin-top: 5%;
+    margin-left: 250px;
+  }
+  
+  .registerbutton:hover {
+    background-color: #222222;
+  }
+  

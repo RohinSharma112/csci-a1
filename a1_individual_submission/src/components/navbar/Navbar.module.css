@@ -1,0 +1,35 @@
+.header {
+  position: fixed;
+  width: 100%;
+  height: 3rem;
+  top: 70px;
+  align-items: center;
+  justify-content: space-between;
+  background-color: #3F51B5;
+  left: 150px;
+}
+
+.nav {
+  list-style: none;
+  left: 450px;
+  display: flex;
+}
+
+.header li {
+  margin-left: 12rem;
+  vertical-align: middle;
+  line-height: 1rem;
+  
+}
+
+.navbar {
+  text-decoration: none;
+  color: whitesmoke;
+  font-size: 1.5rem;
+}
+
+.active{
+  text-decoration: none;
+  color: palegreen;
+  font-size: 1.7rem;
+}

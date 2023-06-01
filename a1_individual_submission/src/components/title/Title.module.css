@@ -1,0 +1,17 @@
+.title {
+    text-align: center;
+    font-size: 2rem;
+    font-weight: bold;
+    margin-top: 20px;
+    color:  black;
+    color: #333333;
+  }
+
+  .titlebox {
+    position: fixed;
+    left:150px;
+    top: 0;
+    height: 70px;
+    background-color: #FFC107;
+    width: 100%;
+  }

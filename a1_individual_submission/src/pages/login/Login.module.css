@@ -1,0 +1,10 @@
+.content {
+    margin-top: 200px;
+    margin-left: 600px;
+    height: 150px;
+    width: 400px;
+    text-align: center;
+    vertical-align: middle;
+    line-height: 150px; 
+    background-color: beige;
+}

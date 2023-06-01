@@ -1,0 +1,40 @@
+.eventspage {
+    padding: 10px;
+    margin-top: 140px;
+    margin-left: 200px;
+  }
+  
+  .eventcards {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+  }
+  
+  .eventcard {
+    width: calc(30% - 20px);
+    margin-bottom: 20px;
+    background-color: #f0f0f0;
+    padding: 20px;
+    text-align: center;
+  }
+  
+  .eventimage {
+    width: 100%;
+    height: auto;
+    margin-bottom: 10px;
+  }
+  
+  
+  .registerbutton {
+    text-decoration: none;
+    background-color: #333333;
+    color: #ffffff;
+    border: none;
+    padding: 5px 10px;
+    font-weight: bold;
+    cursor: pointer;
+  }
+  
+  .registerbutton:hover {
+    background-color: #222222;
+  }
